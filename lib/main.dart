@@ -10,6 +10,7 @@ import 'package:week02/theme/foundation/app_theme.dart';
 import 'package:week02/theme/light_theme.dart';
 import 'package:kakao_flutter_sdk_user/kakao_flutter_sdk_user.dart' as Kakao;
 
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
@@ -18,8 +19,8 @@ void main() async {
   );
 
   Kakao.KakaoSdk.init(
-    nativeAppKey: 'eb40ed4434e7b71432e482ad1c385d16',
-    javaScriptAppKey: '1927dec6f2569f4973fe36602f8fba2c',
+    nativeAppKey: '2e432f16886a1b3d1f647142d67dbbb7',
+    javaScriptAppKey: 'a5d740452a2a3af43226dac606b33124',
   );
   print("kakao 키 :" + await Kakao.KakaoSdk.origin);
   runApp(
