@@ -39,10 +39,10 @@
               "client_type": 3
             },
             {
-              "client_id": "235492424157-pcuqqfqe9oa83rhr708anqkr8mk8mi9o.apps.googleusercontent.com",
+              "client_id": "235492424157-e5ga1nhg737g35ls8v6sogatmkg84lqk.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.eosAdvanceLogin"
+                "bundle_id": "com.example.week02"
               }
             }
           ]
@@ -57,6 +57,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "235492424157-0ttriur9p0ccasd17u7p9ep80afl6orb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.week02",
+            "certificate_hash": "16582a54c7f321dfcfd776e6021b9bb9dd02e69b"
+          }
+        },
         {
           "client_id": "235492424157-37e6gnfugupv27aavioaq8a3c8d0ebeo.apps.googleusercontent.com",
           "client_type": 3
@@ -75,10 +83,10 @@
               "client_type": 3
             },
             {
-              "client_id": "235492424157-pcuqqfqe9oa83rhr708anqkr8mk8mi9o.apps.googleusercontent.com",
+              "client_id": "235492424157-e5ga1nhg737g35ls8v6sogatmkg84lqk.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.eosAdvanceLogin"
+                "bundle_id": "com.example.week02"
               }
             }
           ]
